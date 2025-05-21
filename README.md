@@ -1,7 +1,5 @@
 # 🛠️ QA Testing Tools
 
-A curated list of tools for manual testing, automation, bug tracking, performance, and more — ideal for QA engineers and testers.
-
 ---
 
 ## 🔍 Manual Testing Tools
