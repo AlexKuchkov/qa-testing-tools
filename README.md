@@ -1,4 +1,4 @@
-# 🛠️ QA Testing Tools
+# QA Testing Tools
 
 ---
 
