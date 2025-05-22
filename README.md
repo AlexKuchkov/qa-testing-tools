@@ -2,7 +2,7 @@
 
 ---
 
-## 🔍 Manual Testing Tools
+## Manual Testing Tools
 
 | Tool | Description |
 |------|-------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 🤖 Automation Testing Tools
+## Automation Testing Tools
 
 | Tool | Description |
 |------|-------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 🐞 Bug & Issue Tracking Tools
+## Bug & Issue Tracking Tools
 
 | Tool | Description |
 |------|-------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 Performance & Load Testing Tools
+## Performance & Load Testing Tools
 
 | Tool | Description |
 |------|-------------|
@@ -48,7 +48,7 @@
 
 ---
 
-## 📱 Cross-Browser & Device Testing Tools
+## Cross-Browser & Device Testing Tools
 
 | Tool | Description |
 |------|-------------|
@@ -58,7 +58,7 @@
 
 ---
 
-## ✅ Additional Useful Tools
+## Additional Useful Tools
 
 | Tool | Description |
 |------|-------------|
@@ -70,4 +70,4 @@
 
 ---
 
-> 📌 *This list will be continuously updated as I explore and work with more tools in real-world QA projects.*
+> *This list will be continuously updated as I explore and work with more tools in real-world QA projects.*
