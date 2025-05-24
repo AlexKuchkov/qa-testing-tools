@@ -70,4 +70,3 @@
 
 ---
 
-> *This list will be continuously updated as I explore and work with more tools in real-world QA projects.*
