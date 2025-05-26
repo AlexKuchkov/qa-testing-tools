@@ -1,7 +1,6 @@
 # QA Testing Tools
 
-## Table of Contents
-
+- <strong>Table of Contents</strong>
   - [Manual Testing Tools](#manual-testing-tools)
   - [Automation Testing Tools](#automation-testing-tools)
   - [Bug & Issue Tracking Tools](#bug--issue-tracking-tools)
