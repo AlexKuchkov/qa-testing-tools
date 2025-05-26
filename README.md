@@ -1,4 +1,5 @@
 # QA Testing Tools
+A categorized list of essential tools for QA engineers involved in manual testing, automation, bug tracking, performance analysis, cross-browser/device compatibility, and more. Whether you're just starting out or working on enterprise-grade projects, this toolbox covers popular solutions used across the QA lifecycle.
 
 - <strong>Table of Contents</strong>
   - [Manual Testing Tools](#manual-testing-tools)
