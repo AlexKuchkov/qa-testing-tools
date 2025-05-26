@@ -50,3 +50,5 @@
 - [WAVE](https://wave.webaim.org) / [axe DevTools](https://www.deque.com/axe/devtools/) – Accessibility testing.  
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) – Performance, accessibility, and SEO audits.  
 
+</br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-testing-tools?tab=MIT-1-ov-file)
