@@ -60,6 +60,7 @@
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) – Performance, accessibility, and SEO audits.  
 
 </br>
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new use cases, feel free to open an issue or submit a pull request.
