@@ -1,73 +1,52 @@
 # QA Testing Tools
 
----
 
 ## Manual Testing Tools
 
-| Tool | Description |
-|------|-------------|
-| **TestRail** | Test management tool for creating and tracking test cases. |
-| **TestLink** | Open-source test management tool. |
-| **qTest by Tricentis** | Cloud-based test management platform. |
-| **PractiTest** | Centralized QA management tool with traceability. |
+- [TestRail](https://www.testrail.com) – Test management tool for creating and tracking test cases.  
+- [TestLink](https://testlink.org) – Open-source test management tool.  
+- [qTest by Tricentis](https://www.tricentis.com/products/qtest) – Cloud-based test management platform.  
+- [PractiTest](https://www.practitest.com) – Centralized QA management tool with traceability.  
 
----
 
 ## Automation Testing Tools
 
-| Tool | Description |
-|------|-------------|
-| **Selenium** | Web automation framework supporting multiple browsers and languages. |
-| **Playwright** | Modern Node.js-based automation tool with multi-browser support. |
-| **Cypress** | JavaScript-based front-end testing for modern web apps. |
-| **TestComplete** | Commercial automation tool supporting desktop, web, and mobile testing. |
-| **Appium** | Open-source mobile automation for Android and iOS. |
-| **Katalon Studio** | All-in-one automation tool with built-in features for beginners and pros. |
+- [Selenium](https://www.selenium.dev) – Web automation framework supporting multiple browsers and languages.  
+- [Playwright](https://playwright.dev) – Modern Node.js-based automation tool with multi-browser support.  
+- [Cypress](https://www.cypress.io) – JavaScript-based front-end testing for modern web apps.  
+- [TestComplete](https://smartbear.com/product/testcomplete/overview/) – Commercial automation tool supporting desktop, web, and mobile testing.  
+- [Appium](https://appium.io) – Open-source mobile automation for Android and iOS.  
+- [Katalon Studio](https://katalon.com) – All-in-one automation tool with built-in features for beginners and pros.  
 
----
 
 ## Bug & Issue Tracking Tools
 
-| Tool | Description |
-|------|-------------|
-| **JIRA** | Widely used for agile development and bug tracking. |
-| **Bugzilla** | Open-source bug tracking system by Mozilla. |
-| **MantisBT** | Lightweight, open-source bug tracker. |
-| **GitHub Issues** | Integrated issue tracking for GitHub-hosted projects. |
+- [JIRA](https://www.atlassian.com/software/jira) – Widely used for agile development and bug tracking.  
+- [Bugzilla](https://www.bugzilla.org) – Open-source bug tracking system by Mozilla.  
+- [MantisBT](https://www.mantisbt.org) – Lightweight, open-source bug tracker.  
+- [GitHub Issues](https://docs.github.com/en/issues) – Integrated issue tracking for GitHub-hosted projects.  
 
----
 
 ## Performance & Load Testing Tools
 
-| Tool | Description |
-|------|-------------|
-| **JMeter** | Apache's tool for performance and load testing. |
-| **LoadRunner** | Enterprise-grade performance testing by Micro Focus. |
-| **k6** | Developer-centric performance testing tool written in Go. |
-| **Gatling** | Highly performant tool for web applications, ideal for developers. |
+- [JMeter](https://jmeter.apache.org) – Apache's tool for performance and load testing.  
+- [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview) – Enterprise-grade performance testing by Micro Focus.  
+- [k6](https://k6.io) – Developer-centric performance testing tool written in Go.  
+- [Gatling](https://gatling.io) – Highly performant tool for web applications, ideal for developers.  
 
----
 
 ## Cross-Browser & Device Testing Tools
 
-| Tool | Description |
-|------|-------------|
-| **BrowserStack** | Real devices and browsers for testing web and mobile apps. |
-| **Sauce Labs** | Cloud-based cross-browser testing. |
-| **LambdaTest** | Manual and automated browser testing in the cloud. |
+- [BrowserStack](https://www.browserstack.com) – Real devices and browsers for testing web and mobile apps.  
+- [Sauce Labs](https://saucelabs.com) – Cloud-based cross-browser testing.  
+- [LambdaTest](https://www.lambdatest.com) – Manual and automated browser testing in the cloud.  
 
----
 
 ## Additional Useful Tools
 
-| Tool | Description |
-|------|-------------|
-| **Postman** | API testing and automation. |
-| **Charles Proxy / Fiddler** | Web debugging proxies for inspecting traffic. |
-| **Chrome DevTools** | Built-in browser tools for inspecting and debugging. |
-| **WAVE / axe DevTools** | Accessibility testing. |
-| **Lighthouse** | Performance, accessibility, and SEO audits. |
+- [Postman](https://www.postman.com) – API testing and automation.  
+- [Charles Proxy](https://www.charlesproxy.com) / [Fiddler](https://www.telerik.com/fiddler) – Web debugging proxies for inspecting traffic.  
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) – Built-in browser tools for inspecting and debugging.  
+- [WAVE](https://wave.webaim.org) / [axe DevTools](https://www.deque.com/axe/devtools/) – Accessibility testing.  
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) – Performance, accessibility, and SEO audits.  
 
----
-
-> *This list will be continuously updated as I explore and work with more tools in real-world QA projects.*
