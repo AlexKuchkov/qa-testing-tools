@@ -1,5 +1,16 @@
 # QA Testing Tools
 
+## Table of Contents
+
+- [QA Testing Tools](#qa-testing-tools)
+  - [Manual Testing Tools](#manual-testing-tools)
+  - [Automation Testing Tools](#automation-testing-tools)
+  - [Bug & Issue Tracking Tools](#bug--issue-tracking-tools)
+  - [Performance & Load Testing Tools](#performance--load-testing-tools)
+  - [Cross-Browser & Device Testing Tools](#cross-browser--device-testing-tools)
+  - [Additional Useful Tools](#additional-useful-tools)
+
+
 
 ## Manual Testing Tools
 
