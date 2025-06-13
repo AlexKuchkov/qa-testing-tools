@@ -48,7 +48,7 @@ A categorized list of essential tools for QA engineers involved in manual testin
 ## Cross-Browser & Device Testing Tools
 
 - [BrowserStack](https://www.browserstack.com) – Real devices and browsers for testing web and mobile apps.  
-- [Sauce Labs](https://saucelabs.com) – Cloud-based cross-browser testing.  
+- [Sauce Labs](https://saucelabs.com) – Cloud-based cross browser testing.  
 - [LambdaTest](https://www.lambdatest.com) – Manual and automated browser testing in the cloud.  
 
 
